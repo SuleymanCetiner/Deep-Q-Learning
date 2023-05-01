@@ -24,3 +24,4 @@ So, what are the steps involved in reinforcement learning using deep Q-learning 
 ![image](https://user-images.githubusercontent.com/38746955/235518425-48bf0db8-3362-45dd-ae7e-4f4c30100ea0.png)
 
 
+![image](https://user-images.githubusercontent.com/38746955/235518567-e1d16e2a-cdad-4a30-a3e0-1daa3fa334fa.png)
