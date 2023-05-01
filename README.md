@@ -18,3 +18,6 @@ So, what are the steps involved in reinforcement learning using deep Q-learning 
 2. The next action is determined by the maximum output of the Q-network.
 
 3. The loss function here is mean squared error of the predicted Q-value and the target Q-value – Q*. This is basically a regression problem. However, we do not know the target or actual value here as we are dealing with a reinforcement learning problem. Going back to the Q-value update equation derived fromthe Bellman equation.
+
+
+![image](https://user-images.githubusercontent.com/38746955/235518351-fecee75e-cdfd-4922-9c46-ccbc40e2dad5.png)
