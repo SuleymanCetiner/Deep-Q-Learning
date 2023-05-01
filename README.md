@@ -10,6 +10,7 @@ Here, we optimize Q function to maximize cumulative reward in RL.
 Every action has a fuction and yields Q value.
 After training the generated environment,model maximizes reward.
 
+![image](https://user-images.githubusercontent.com/38746955/235518351-fecee75e-cdfd-4922-9c46-ccbc40e2dad5.png)
 
 So, what are the steps involved in reinforcement learning using deep Q-learning networks (DQNs)?
 
@@ -20,4 +21,6 @@ So, what are the steps involved in reinforcement learning using deep Q-learning 
 3. The loss function here is mean squared error of the predicted Q-value and the target Q-value – Q*. This is basically a regression problem. However, we do not know the target or actual value here as we are dealing with a reinforcement learning problem. Going back to the Q-value update equation derived fromthe Bellman equation.
 
 
-![image](https://user-images.githubusercontent.com/38746955/235518351-fecee75e-cdfd-4922-9c46-ccbc40e2dad5.png)
+![image](https://user-images.githubusercontent.com/38746955/235518425-48bf0db8-3362-45dd-ae7e-4f4c30100ea0.png)
+
+
