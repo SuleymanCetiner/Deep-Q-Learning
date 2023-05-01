@@ -7,3 +7,5 @@ In reinforcement learning,myriad states exist so it makes infeasible to use tabl
 record actions from state to state.
 Instead, using Deep Q Learning is recommended.
 Here, we optimize Q function to maximize cumulative reward in RL.
+Every action has a fuction and yields Q value.
+After training the generated environment,model maximizes reward.
